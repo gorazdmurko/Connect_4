@@ -1,2 +1,2 @@
 # Connect_4
-my interpretation of a popular connect 4 game (4 in a line)
+My C++ interpretation of a popular connect_4 game (4 in a line) played in the console
